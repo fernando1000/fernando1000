@@ -98,7 +98,6 @@ A Java game inspired by the Chrome dinosaur game, featuring a neural network tra
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando1000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Fernando's GitHub statistics" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando1000&layout=compact&theme=tokyonight" alt="Most used programming languages" />
 </p>
 
