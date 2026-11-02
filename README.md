@@ -23,9 +23,9 @@ I build enterprise-grade backend systems and blockchain solutions for real-world
 
 **Languages & Backend**
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 
 **Enterprise Blockchain & DLT**
 
@@ -81,6 +81,7 @@ A Java game inspired by the Chrome dinosaur game, featuring a neural network tra
 
 ## 📌 Current Focus
 
+* Async Rust (Tokio) and distributed systems
 * Enterprise blockchain and distributed ledger solutions
 * Java backend engineering and software architecture
 * Real-world asset tokenization and enterprise integrations
