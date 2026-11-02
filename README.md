@@ -1,21 +1,21 @@
 # Hi, I'm Fernando Pereira 👋
 
-### Senior Java & Enterprise Blockchain Engineer
+### Senior Java/Rust & Enterprise Blockchain Engineer
 
-Senior Software Engineer with **10+ years of Java backend experience** and **5+ years working with enterprise blockchain and distributed ledger technologies (DLT)**.
+Senior Software Engineer with **10+ years of Java/Rust backend experience** and **5+ years working with enterprise blockchain and distributed ledger technologies (DLT)**.
 
 I build enterprise-grade backend systems and blockchain solutions for real-world asset (RWA) tokenization, with a focus on financial systems, distributed architectures, and business-critical applications.
 
-* ⛓️ **Enterprise Blockchain:** R3 Corda, Solana, Hyperledger Besu, Hyperledger Fabric, Polkadot/Substrate
-* ☕ **Backend Engineering:** Java, Spring Boot, REST APIs, microservices, Rust, Anchor
+* ⛓️ **Enterprise Blockchain:** Polkadot/Substrate, Solana, R3 Corda, Hyperledger Besu, Hyperledger Fabric 
+* ☕ **Backend Engineering:** Java, Rust, Axum, Tokio, REST APIs, microservices, Anchor
 * 🌱 **Real-World Applications:** Asset tokenization, renewable energy certificates, and carbon credits
 * 🏗️ **Architecture:** Distributed systems, enterprise integration, and scalable backend services
 
 ### 💼 Professional Highlights
 
-* Architected and developed backend and blockchain integrations for an RWA tokenization platform using **Java and R3 Corda**, contributing to over **BRL 600K in self-abatement savings**.
-* Developed enterprise blockchain solutions using **Solana and Rust**, focused on traceability, asset lifecycle management, and digital asset tokenization.
-* Built a multi-tenant SaaS platform using **Substrate and Rust**, associated with a **30% increase in trading volume**.
+* Architected and developed backend and blockchain integrations for an RWA tokenization platform using **R3 Corda**, contributing to over BRL 600K in self-abatement savings.
+*  Developed a commercial invoice tokenization for primary and secondary market trading using **Substrate, Rust, Axum and Tokio**, driving a 25% increase in trading volume and generating BRL 200K in additional revenue for clients.
+* Engineered a multi-tenant SaaS tokenization architecture for energy certificates using **Substrate, Rust, Axum and Tokio**, delivering customizable asset issuance for 3 enterprise clients and expanding market liquidity by 20%.
 
 ---
 
@@ -29,10 +29,10 @@ I build enterprise-grade backend systems and blockchain solutions for real-world
 
 **Enterprise Blockchain & DLT**
 
+![Polkadot/Substrate](https://img.shields.io/badge/Polkadot%2FSubstrate-E6007A?style=for-the-badge\&logo=polkadot\&logoColor=white)
 ![R3 Corda](https://img.shields.io/badge/R3_Corda-1A365D?style=for-the-badge)
 ![Hyperledger Besu](https://img.shields.io/badge/Hyperledger_Besu-326CE5?style=for-the-badge)
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F6B4F?style=for-the-badge)
-![Polkadot/Substrate](https://img.shields.io/badge/Polkadot%2FSubstrate-E6007A?style=for-the-badge\&logo=polkadot\&logoColor=white)
 
 **Architecture & Infrastructure**
 
@@ -72,6 +72,7 @@ A Java game inspired by the Chrome dinosaur game, featuring a neural network tra
 
 ## 🏅 Certifications
 
+* **Hyperledger Fabric Certified** — Linux Foundation (2026)
 * **Hyperledger Besu Certified** — Linux Foundation (2025)
 * **Substrate Certified** — Parity Technologies (2024)
 * **Solidity Certified** — Blockchain Council (2021)
