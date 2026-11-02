@@ -7,7 +7,7 @@ Senior Software Engineer with **10+ years of backend experience** and **5+ years
 I build enterprise-grade backend systems and blockchain solutions for real-world asset (RWA) tokenization, with a focus on financial systems, distributed architectures, and business-critical applications.
 
 * ⛓️ **Enterprise Blockchain:** Polkadot/Substrate, Solana, R3 Corda, Hyperledger Besu, Hyperledger Fabric 
-* ☕ **Backend Engineering:** Java, Rust, Axum, Tokio, REST APIs, microservices, Anchor
+* 🦀 **Backend Engineering:** Rust, Axum, Tokio, Java, REST APIs, microservices
 * 🌱 **Real-World Applications:** Asset tokenization, renewable energy certificates, and carbon credits
 * 🏗️ **Architecture:** Distributed systems, enterprise integration, and scalable backend services
 
