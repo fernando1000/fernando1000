@@ -29,6 +29,11 @@ I build enterprise-grade backend systems and blockchain solutions for real-world
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Rust-Axum-5C3A2E?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)
+![Tokio](https://img.shields.io/badge/Rust-Tokio-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)
+
+
 **Enterprise Blockchain & DLT**
 
 ![Polkadot/Substrate](https://img.shields.io/badge/Polkadot%2FSubstrate-E6007A?style=for-the-badge\&logo=polkadot\&logoColor=white)
