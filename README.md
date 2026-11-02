@@ -1,8 +1,8 @@
 # Hi, I'm Fernando Pereira 👋
 
-### Senior Java/Rust & Enterprise Blockchain Engineer
+### Senior Backend Engineer & Enterprise Blockchain Engineer
 
-Senior Software Engineer with **10+ years of Java/Rust backend experience** and **5+ years working with enterprise blockchain and distributed ledger technologies (DLT)**.
+Senior Software Engineer with **10+ years of backend experience** and **5+ years working with enterprise blockchain and distributed ledger technologies (DLT)**.
 
 I build enterprise-grade backend systems and blockchain solutions for real-world asset (RWA) tokenization, with a focus on financial systems, distributed architectures, and business-critical applications.
 
